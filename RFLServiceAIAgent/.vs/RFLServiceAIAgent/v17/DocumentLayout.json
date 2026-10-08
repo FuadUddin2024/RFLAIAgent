@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\schematool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\schematool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\interface\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\interface\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\service\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\service\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\models\\ollamamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\models\\ollamamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\service\\interface\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\service\\interface\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\models\\schemaobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\models\\schemaobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\querytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\querytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\interface\\ibusinesstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\interface\\ibusinesstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\interface\\ischematool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\interface\\ischematool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\businesstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\businesstool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\interface\\iquerytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\interface\\iquerytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\productiontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\productiontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|g:\\service projects and system after 4.6.26\\allservice project code\\chat bot\\rflserviceaiagent\\rflserviceaiagent\\tools\\interface\\iproductiontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}|RFLServiceAIAgent\\RFLServiceAIAgent.csproj|solutionrelative:rflserviceaiagent\\tools\\interface\\iproductiontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 56,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\AgentService.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\AgentService.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\AgentService.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\AgentService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:04:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:44:52.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IAgentService.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\InterFace\\IAgentService.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IAgentService.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\InterFace\\IAgentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:04:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Service\\OllamaService.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Service\\OllamaService.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Service\\OllamaService.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Service\\OllamaService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:08:17.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchemaTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\SchemaTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\SchemaTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\SchemaTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\SchemaTool.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:18:11.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOllamaService.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Service\\InterFace\\IOllamaService.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Service\\InterFace\\IOllamaService.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Service\\InterFace\\IOllamaService.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Service\\InterFace\\IOllamaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:08:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OllamaModel.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Models\\OllamaModel.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Models\\OllamaModel.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Models\\OllamaModel.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Models\\OllamaModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:09:46.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SchemaObject.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Models\\SchemaObject.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Models\\SchemaObject.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Models\\SchemaObject.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Models\\SchemaObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:52:37.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Program.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Program.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Program.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:42:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\appsettings.json",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\appsettings.json",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\appsettings.json",
+              "RelativeToolTip": "RFLServiceAIAgent\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T04:43:00.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBusinessTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IBusinessTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\InterFace\\IBusinessTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IBusinessTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\InterFace\\IBusinessTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:20:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\BusinessTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\BusinessTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\BusinessTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\BusinessTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:20:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\QueryTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\QueryTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\QueryTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\QueryTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:19:06.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISchemaTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\ISchemaTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\InterFace\\ISchemaTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\ISchemaTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\InterFace\\ISchemaTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:18:30.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQueryTool.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IQueryTool.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\InterFace\\IQueryTool.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IQueryTool.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\InterFace\\IQueryTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:19:41.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductionTools.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IProductionTools.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\InterFace\\IProductionTools.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\InterFace\\IProductionTools.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\InterFace\\IProductionTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T03:33:49.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductionTools.cs",
+              "DocumentMoniker": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\ProductionTools.cs",
+              "RelativeDocumentMoniker": "RFLServiceAIAgent\\Tools\\ProductionTools.cs",
+              "ToolTip": "G:\\Service Projects And System After 4.6.26\\ALLService Project Code\\CHAT BOT\\RFLServiceAIAgent\\RFLServiceAIAgent\\Tools\\ProductionTools.cs",
+              "RelativeToolTip": "RFLServiceAIAgent\\Tools\\ProductionTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T03:33:31.595Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

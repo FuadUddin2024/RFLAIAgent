@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFLServiceAIAgent", "RFLServiceAIAgent\RFLServiceAIAgent.csproj", "{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE57CCF-D4AD-4FFC-84DB-BB80BD8A303E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FA7F14-DEC1-47EB-9B9D-40E8A195DC26}
+	EndGlobalSection
+EndGlobal
